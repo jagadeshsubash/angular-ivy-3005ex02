@@ -8,5 +8,6 @@ import { Component, VERSION } from '@angular/core';
 export class AppComponent  {
   name = 'Angular ' + VERSION.major  + " @ " + VERSION.minor;
   title =  "Geek or Freak";
-src = "https://www.google.com/search?q=images&prmd=ibnv&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi7-OmwlIn4AhVKwjgGHWU2BEQQ_AUoAXoECAIQAQ&biw=640&bih=280&dpr=2#imgrc=2nDXavJs9DoKTM";
-}
+src = 'https://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200-1.png';  
+}   
+
